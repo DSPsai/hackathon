@@ -1,17 +1,16 @@
 {
   "projects": {
-    "default": "sih-hackathon"
+    "default": "texter-17be8",
+    "project-vahankart": "texter-17be8"
   },
   "targets": {
     "texter-17be8": {
       "hosting": {
         "sih-hackathon": [
-          "sih"
-        ],
-        "sih": [
-          "sih-hackahon"
+          "sih-hackathon"
         ]
-      }
+      },
+      "target": "sih-hackathon"
     }
   }
 }

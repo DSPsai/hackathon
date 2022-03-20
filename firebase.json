@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target":"sih-hackathon",
     "public": "build",
     "ignore": [
       "firebase.json",
