@@ -31,7 +31,7 @@ function App() {
           <Route exact path="/Login/Investor" element={<CollegeLogin title='Investor' styles={classes} />} />
           <Route exact path="/SignUp/College" element={<CollegeSignup title='College' styles={classes} />} />
           <Route exact path="/SignUp/Investor" element={<CollegeSignup title='Investor' styles={classes} />} />
-          <Route exact path="/Projects/SingleProject" element={<SingleProject styles={classes} />} />
+          <Route exact path="/Projects/SingleProject/:asd" element={<SingleProject styles={classes} />} />
           <Route exact path="/Collage-Register" element={<CollegeRegistration styles={classes} />} />
           {/* <Route exact path="/Projects/SingleProject/:id" element={<SingleProject styles={classes} />}/> */}
         </Routes>
