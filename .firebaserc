@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "sih-hackathon"
+  },
+  "targets": {
+    "texter-17be8": {
+      "hosting": {
+        "sih-hackathon": [
+          "sih"
+        ],
+        "sih": [
+          "sih-hackahon"
+        ]
+      }
+    }
+  }
+}

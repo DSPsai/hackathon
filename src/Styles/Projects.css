@@ -1,0 +1,37 @@
+.searchbarBox{
+    display: flex;
+    
+}
+.search{
+    display: flex;
+    width:1100px;
+    flex-flow: column;
+}
+.search .SearchHead{
+    font-size: 17px;
+    text-align: initial;
+    margin:10px 0 10px 0;
+}
+.HomeCardImage{
+    height:150px;
+    width:300px;
+    border-radius: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.241);
+    margin:10px
+}
+.searchbar{
+    padding: 10px 60px 10px 20px;
+    font-size: 20px;
+    background-color: #FFD1C4;
+    border: 3px solid rgba(0, 0, 0, 0.282);
+    border-radius: 10px;
+    margin-right: -45px;
+    width:700px;
+}
+
+.searchbarBox i{
+    font-size: 30px;
+    margin-top: 9px;
+    opacity: 0.6;
+
+}
